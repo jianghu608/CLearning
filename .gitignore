@@ -1,0 +1,46 @@
+# =============== 编译产物 ===============
+*.exe      # Windows 可执行文件
+*.dll
+*.lib
+*.pdb
+
+*.o        # Linux/macOS 对象文件
+*.out
+*.dSYM     # macOS 调试符号
+
+# =============== 构建目录 ===============
+Debug/
+Release/
+x64/
+x86/
+build/
+cmake-build-*/
+
+# =============== IDE 临时文件 ===============
+# Visual Studio (Windows)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+*.slnx
+
+# Xcode (macOS)
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# VS Code (可选，一般不用忽略)
+# .vscode/
+
+# =============== 系统文件 ===============
+.DS_Store   # macOS
+Thumbs.db   # Windows
+desktop.ini
+
+# =============== 其他 ===============
+practice.txt
+*.log

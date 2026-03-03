@@ -1,2 +1,2 @@
 # CLearning
-C Language practice
+This is a repository storing my C practice codes.
