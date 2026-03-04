@@ -14,8 +14,9 @@ int main (void) {
     unsigned short pixel_value = 8000;
 
     int max_int = 2147483647;
-    int min_int = -2147483648;
-    unsigned int max_uint = max_int - min_int;
+    int min_int = INT32_MIN;
+    // unsigned int max_uint = max_int - min_int;   无符号类型不能用负数运算
+    unsigned int max_uint = UINT32_MAX;
 
     long a_long = 324;
     unsigned long a_ulong = 18312314;
