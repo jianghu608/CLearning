@@ -19,5 +19,10 @@ int main(void) {
     orange = orange << 32;
     printf("%" PRId32 "\n", orange); // 值为1，会“绕”回来，是个圈！！
 
+
+    uint32_t password = 134583;
+    uint32_t encrypted_password = password << 2;
+    printf("The encrypted_password is %" PRIu32 "\n", encrypted_password);
+    // 134583 -> 538332 暂时看不出什么规律
     return 0;
 }
