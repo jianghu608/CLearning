@@ -37,8 +37,15 @@ DerivedData/
 # VS Code (可选，一般不用忽略)
 .vscode/
 
+# IDEA
+.idea/
+
+# Zed
+.zed/
+
 # =============== 系统文件 ===============
 .DS_Store   # macOS
+**/.DS_Store
 Thumbs.db   # Windows
 desktop.ini
 
