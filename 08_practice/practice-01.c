@@ -76,7 +76,7 @@ int main (void) {
     printf("The positive infinity is %f\n", positive_infinity);
     printf("The negative infinity is %f\n", negative_infinity);
 
-    printf("\nPlease input a number of students:\n");
+    printf("\nPlease input a number of students:");
     int stu_num;
     scanf("%d", &stu_num);
     printf("The number you input is %d\n", stu_num);
