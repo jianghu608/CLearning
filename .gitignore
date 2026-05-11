@@ -15,6 +15,7 @@ x64/
 x86/
 build/
 cmake-build-*/
+temp/
 
 # =============== IDE 临时文件 ===============
 # Visual Studio (Windows)
@@ -34,7 +35,7 @@ cmake-build-*/
 DerivedData/
 
 # VS Code (可选，一般不用忽略)
-# .vscode/
+.vscode/
 
 # =============== 系统文件 ===============
 .DS_Store   # macOS
