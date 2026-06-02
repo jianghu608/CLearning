@@ -49,6 +49,9 @@ DerivedData/
 Thumbs.db   # Windows
 desktop.ini
 
+# =============== 编辑器/工具配置 ===============
+.codewhale/
+
 # =============== 其他 ===============
 practice.txt
 CLearning/
