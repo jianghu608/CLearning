@@ -26,3 +26,49 @@
 对于 100% 的数据，3 ≤ n ≤ 100，测验题给出的正整数大小不超过 10000。
 
 */
+
+// 输入n个整数，问有多少个数等于其他另两个数的和
+// 暴力三重遍历
+#include <stdio.h>
+int main(void) {
+    int count = 0;
+    int n;
+    scanf("%d", &n);
+
+    int a, b, c;
+    // 验证 c = a + b
+
+    // 输入数组
+    int arr[n];
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    // 第一重遍历 c = arr[i] = a + b, a和b不能互相重合，不能与c重合
+    for (int i = 0; i < n; i++) {
+        c = arr[i];
+
+        // 第二重循环，输入a
+        for (int j = 0; j < n; j++) {   // 能解题就行，不考虑优化
+            if (j != i) {
+                a = arr[j];
+
+                // 第三重循环，输入b
+                for (int k = 0; k < n; k++) {
+                    b = arr[k];
+                    if (k != j) {   // k!=j, j!=i -> k!=j!=i
+                        if (c == a + b) {
+                            count++;
+                            goto done;  // 还需要跳出第二重循环，让c继续遍历
+                        }
+                    }
+                }
+            }
+        }
+
+        done:
+        continue;
+    }
+    // 判断主体是c，是依次循环下来的，并且有goto done: continue短路，不会重复记录
+    printf("%d", count);
+}
