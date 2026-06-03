@@ -1,0 +1,313 @@
+2025自动化专业培养计划 
+一、培养目标
+二、毕业要求
+三、主干学科
+四、专业核心课程
+五、双语、全英语教学课程
+六、计划学制
+ 4 年。
+七、授予学位
+ null 学士学位。
+八、学分基本要求
+ 毕业学分要求：135 学分。第二课堂学分要求：6学分。
+九、辅修专业学分要求及授予学位 
+ 学分要求：30.5 学分，授予学位：辅修null学士学位（申请辅修学位，需加修综合实践（论文）10学
+分）。
+十、课程设置与学分分布
+ (一)	先修课程 最低要求0学分 
+ 
+ (二)	通识课程 最低要求52.5学分 
+ 1.	通识必修课程 最低要求42.5学分 
+	 (1)	思政类 最低要求18学分 
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+X810002 大学数学基础 2.0 32 2.0 0.0 一1 考查
+Fundamentals of College Mathematics
+X126001 大学信息技术基础 1.0 16 1.0 0.0 一1 考查
+University Information Technology
+Foundation AP
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G237002 中国近现代史纲要 2.0 32 2.0 0.0 一1 考试
+Compendium of Chinese Modern History
+G237016 “四史”教育 1.0 16 1.0 0.0 一2 考查
+“Four Histories" Education
+G237019 思想道德与法治 3.0 48 3.0 0.0 一2 考试
+ 
+	 (2)	体育类 最低要求7.5学分 
+Value,Morality and Rule of Law
+G237003 马克思主义基本原理 3.0 48 3.0 0.0 二1 考试
+The Fundamental tenets of Marxism
+G237017 毛泽东思想和中国特色社会主义理论
+体系概论 2.0 32 2.0 0.0 二1 考试
+Introduction to Mao Zedong’s Thought
+and Theoretical system of socialism with
+Chinese characteristics
+G237020 习近平新时代中国特色社会主义思想
+概论 3.0 48 3.0 0.0 二2 考试
+Introduction To Xi Jinping Thought on
+Socialism with Chinese Characteristics
+for a New Era
+G737001 思想政治理论课社会实践 2.0 40 0.0 二3 考查
+Extracurricular Practice for Ideological
+and Political Theory Course
+G237021 形势与政策 2.0 64 2.0 0.0 四2 考查
+Situation and Policy
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G213001 体育Ⅰ 1.0 32 2.0 0.0 一1 考试
+Physical education
+G113035 军事理论 2.0 36 6.0 0.0 一1 考查
+Military theory
+G713007 军事技能 1.0 112 0.0 一1 考查
+Military skill training
+G213002 体育Ⅱ 1.0 32 2.0 0.0 一2 考试
+Physical education
+G213003 体育Ⅲ 1.0 32 2.0 0.0 二1 考试
+Physical education
+G213004 体育Ⅳ 1.0 32 2.0 0.0 二2 考试
+Physical education
+G213007 体质健康训练Ⅲ 0.25 8 0.0 三1 考查
+Physical Training
+G213008 体质健康训练Ⅳ 0.25 8 0.0 三2 考查
+Physical Training
+ 
+	 (3)	外语类 最低要求7学分 
+ 
+	 (4)	心理健康教育类 最低要求2学分 
+ 
+	 (5)	国家安全教育 最低要求1学分 
+ 
+	 (6)	人工智能类 最低要求7学分 
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G709040 通用英语（实践） 1.0 40 0.0 一1 考查
+English for General Purposes practice
+course)
+G209065 通用英语 2.0 32 2.0 0.0 一1 考试
+English for General Purposes
+G209067 通用学术英语 B 4.0 64 4.0 0.0 一2 考试
+English for General Academic Purposes B
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G207010 心理健康教育实践 1.0 32 0.0 一1 考查
+mental health practice course
+G207007 心理健康与自我成长 1.0 16 1.0 0.0 一1 考试
+Mental health and personal growth
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G227004 国家安全教育 1.0 16 1.0 0.0 一1 考查
+Tutorial of National Security in General
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G203006 C语言程序设计 3.0 48 2.0 0.0 一1 考试
+C Programming Language
+G203007 人工智能原理及应用A 4.0 64 3.0 0.0 一2 考试
+Principle and Application of Artificial
+Intelligence A
+ 
+ 2.	通识选修课程 最低要求10学分 (学生需至少修满10学分，其中在艺术修养、创新创业两
+个模块中至少各修一门课程；在其余五个模块（人文情怀、科学素养、社会责任、国际视野、人工智能
+）中至少选修三个模块的课程)
+	 (1)	艺术修养 最低要求1学分 
+ 通识选修课分为艺术修养模块。学生应在每一个模块内至少选修一门课程。
+ 
+	 (2)	创新创业 最低要求1学分 
+ 通识选修课分为创新创业模块。学生应在每一个模块内至少选修一门课程。
+ 
+	 (3)	社会责任(必选) 最低要求1学分 
+ 
+	 (4)	其他通识选修 最低要求1学分 
+ ①	人文情怀 最低要求1学分 
+ 通识选修课分为人文情怀模块。学生应在每一个模块内至少选修一门课程。
+ 
+ ②	科学素养 最低要求1学分 
+ 通识选修课分为科学素养模块。学生应在每一个模块内至少选修一门课程。
+ 
+ ③	国际视野 最低要求1学分 
+ 通识选修课分为国际视野模块。学生应在每一个模块内至少选修一门课程。
+ 
+ ④	人工智能 最低要求1学分 
+ 通识选修课分为人工智能模块。学生应在每一个模块内至少选修一门课程。
+ 
+ (三)	学科基础课程 最低要求45.5学分 
+ 1.	学科基础必修课程 最低要求45.5学分 
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G303008 工程伦理 1.0 16 1.0 0.0 二2 考查
+Engineering ethics
+G105085 工程经济分析与工程管理 2.0 32 2.0 0.0 三2 考查
+Engineering Economic Analysis and
+Engineering Management
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G210380 线性代数A 3.0 48 3.0 0.0 一1 考试
+Linear Algebra A
+ 
+G102002 工程图学 3.0 48 3.0 0.0 一1 考试
+Engineering Graphics
+G210013 高等数学Ⅰ 5.0 80 5.0 0.0 一1 考试
+Calculus 
+G210092 高等数学Ⅱ 6.0 96 6.0 0.0 一2 考试
+Calculus 
+G210024 大学物理Ⅰ 3.0 48 3.0 0.0 一2 考试
+University Physics platform courses
+G410021 大学物理实验C 1.0 32 2.0 32.0 一2 考查
+University Physics Experiment C
+G103010 电路原理 B 4.0 64 4.0 0.0 二1 考试 √
+Electric circuit B
+G103197 模拟电子技术A 3.0 48 3.0 8.0 二1 考试 √
+Analog Electronics A
+G210382 概率论与数理统计A 3.0 48 3.0 0.0 二1 考试
+Probability and Statistics A
+G702006 机械工程训练与劳动实践C 1.0 80 0.0 二1 考查
+Engineering Training &amp; Hands on
+Practice C
+G210171 大学物理ⅡC (模块） 2.5 40 2.5 0.0 二1 考试
+ University Physics C (cluster
+courses
+G210021 复变函数与积分变换 3.0 48 3.0 0.0 二1 考试
+Complex variable function
+G103100 数字电路与数字逻辑 D 3.0 48 3.0 8.0 二2 考试 √
+Digital Circuit and Digital Logic D
+G703025 程序语言课程设计 1.0 20 0.0 二2 考查
+Projects of Programming Language
+G403002 电路实验C 0.5 16 1.0 16.0 二2 考查
+Circuit Experiments C
+G703035 模拟电子技术课程设计 1.0 20 0.0 二2 考查 √
+Projects of Analog Circuits
+G703039 数字电路与数字逻辑课程设计 1.0 20 0.0 二3 考查 √
+Projects of Digital and Logic Circuits
+G703085 电子线路CAD课程设计 1.0 20 0.0 三1 考查
+Electronic Circuit CAD Course Design
+G503001 电子工艺实习 0.5 20 0.0 三2 考查 √
+Preliminary Circuit Implementation
+ 2.	学科基础选修课程 最低要求0学分 
+ 
+ (四)	专业课程 最低要求37学分 
+ 1.	专业必修课程 最低要求37学分 
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G103067 电子系统设计 3.0 48 3.0 16.0 二2 考查
+Design of Electronic systems
+B103013 信号与系统C（双语） 3.5 56 3.5 8.0 二2 考试
+Modern Sensing and Detection C
+B103012 数字信号处理A（双语） 2.5 40 2.5 8.0 三1 考试
+Digital Signal Processing A (Bilingual)
+B103021 计算机网络（双语） 3.0 48 3.0 8.0 三1 考查
+Computer Networks (Bilingual)
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G103167 自动化专业导论 1.0 16 1.0 0.0 一2 考查
+Introduction of Automation Major
+G703083 单片机课程设计A 2.0 32 0.0 二2 考查 √
+Projects of Microprocessor A
+G103072 单片机原理 1.0 16 1.0 0.0 二2 考试 √
+Principles of Microprocessor
+G503002 专业实习 1.0 40 0.0 二3 考查
+Practices of Major
+G703086 科研训练 1.0 40 0.0 三1 考查
+Research Training
+G103009 自动控制原理 B 4.0 64 4.0 8.0 三1 考试 √
+Automatic Control Principles B
+G103201 机器学习 3.0 48 3.0 16.0 三1 考试 √
+Madine Leaming
+G103181 现代控制理论 A 3.0 48 3.0 0.0 三2 考试 √
+Modern Control Theory A
+G103038 运动控制系统 3.0 48 3.0 8.0 三2 考试 √
+Motion Control Systems
+G103208 现代传感与检测 2.0 32 2.0 8.0 三2 考试
+Modern Sensing and Detection
+G703087 人工智能课程设计 1.0 20 0.0 三3 考查
+AI Curriculum Design
+ 
+ 2.	专业选修课程 最低要求0学分 
+ 
+G703088 智能控制系统课程设计 2.0 40 0.0 三3 考查 √
+Intelligent Control System Course
+Design
+G503003 毕业实习 1.0 40 0.0 四1 考查
+Internship on Graduation Project
+G603002 毕业设计（论文）A 12.0 320 0.0 四2 考查
+Graduation Project(Thesis) A
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+G103203 面向对象C++编程B 2.0 32 1.0 0.0 二2 考试
+ Object-oriented C++ Programming B
+G103157 图像处理与视频分析 A 3.0 48 2.0 0.0 二2 考试
+Image Processing and Video Analysis A
+G103025 最优化方法 3.0 48 2.5 0.0 二2 考试
+Optimization Methods
+G103117 电机与拖动基础 4.0 64 4.0 8.0 二2 考试
+Fundamentals of Electrical Machines and
+Drives
+G103169 电气控制与PLC技术 A 2.5 40 2.5 8.0 三1 考试
+Electric Control and PLC Technology A
+G103037 电力电子技术 A 3.5 56 3.5 16.0 三1 考试
+Power Electronic Technology A
+G103148 工业互联网 2.0 32 2.0 0.0 三2 考查
+Industrial Internet
+G103110 机器人控制 3.0 48 2.0 0.0 三2 考试
+Control of Robots
+G103119 智能机器人创新实践 2.0 32 0.5 0.0 三2 考查
+Innovative Practice of Smart Robots
+G103054 嵌入式系统 3.0 48 3.0 24.0 三2 考试
+Embedded Systems
+G703089 工业互联网课程设计 3.0 60 0.0 四1 考查
+Industrial Internet Course Design
+G703090 机器人控制课程设计A 3.0 60 0.0 四1 考查
+Curriculum Design of Control of Robots A
+ 3.	跨专业个性化选修课程 最低要求0学分 
+ 
+ (五)	第二课堂 最低要求6学分 
+课程编号 课 程 名 称 学分 总学时 周学时 实验学
+时
+开设
+学期 考核方式 辅修
+课程
+X813002 体能训练 1.0 2 0.0 四2 考查
+Physical Fitness Training
+X797002 综合素质拓展与实践 2.0 2 0.0 四2 考查
+X841003 创新创业实践 1.0 40 0.0 四2 考查
+Innovation and entrepreneurship practice
+X237015 大学生就业指导与实践 1.0 40 0.0 四2 考查
+X813001 军事技能拓展 1.0 32 0.0 四2 考查
+Military skill training extended
+执笔者：
+审核者：
